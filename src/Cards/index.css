@@ -1,0 +1,26 @@
+.card-address{
+    font-size: 16px;
+    font-weight: 500;
+}
+.card{
+    height: 480px !important;
+}
+.like-icons{
+    width: 24px;
+    height: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.buy-now-icons{
+    width: 60px;
+    height: 40px;
+    cursor: pointer;
+}
+.footer-icons{
+    position: absolute;
+    bottom: 0;
+}
+.card-body{
+    position: relative;
+}
